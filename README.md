@@ -1,7 +1,8 @@
 # Hotel-booking-cancelation-dashboard
 This Excel-based dashboard provides a comprehensive overview of hotel booking cancellations, designed to assist hotel management in analyzing cancellation trends and optimizing booking strategies. The dashboard utilizes data visualization techniques to present key metrics and insights in an intuitive format.
 
-# Dashboard link 
+# Dashboard link
+(https://github.com/hemantchoudhry/Hotel-booking-cancelation-dashboard/assets/165124115/468e3455-21d3-472e-af90-2e9ad093b4d4)
 
 ## Key Features:
 Cancellation Analysis: Visualize cancellation rates over time and identify peak cancellation periods.
